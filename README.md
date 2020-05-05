@@ -3,14 +3,17 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 
 Yelp Business:
 s3://sta9760-yelpdataset1/yelp_academic_dataset_business.json
+
 https://sta9760-yelpdataset1.s3.us-east-2.amazonaws.com/yelp_academic_dataset_business.json
 
 Yelp Review:
 s3://sta9760-yelpdataset1/yelp_academic_dataset_review.json
+
 https://sta9760-yelpdataset1.s3.us-east-2.amazonaws.com/yelp_academic_dataset_review.json
 
 Yelp User:
 s3://sta9760-yelpdataset1/yelp_academic_dataset_user.json
+
 https://sta9760-yelpdataset1.s3.us-east-2.amazonaws.com/yelp_academic_dataset_user.json
 
 # Cluster and Notebook Configs
